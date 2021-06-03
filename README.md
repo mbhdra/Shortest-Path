@@ -1,4 +1,4 @@
-# ShortestPath
+# Shortest-Path
 - This repository contains 3 shortest path algorithms' implementations (Dijkstra, Bellman-Ford, Floyd-Warshall) for the graphs in the plain text DIMACS Challenge format.
 - It is implemented in Java 1.8 with Eclipse.
 - Project includes the source codes, datasets used and run time results of the methods on those datasets in an Excel file.
